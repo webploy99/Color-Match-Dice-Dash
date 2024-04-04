@@ -1,7 +1,7 @@
 // ======== get URL ========
 function appUrl() {
     location.href =
-      "https://apps.apple.com/kh/app/color-match-dice-dash/id6480505835";
+      "https://apps.apple.com/vn/app/color-match-dice-dash/id6480505835";
 }
 
 // ======== get Icon ========
